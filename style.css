@@ -1,0 +1,266 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+.gallery img{
+    width: 50%;
+    padding-left: 350px;
+}
+
+
+
+h2{
+    font-family: fantasy;
+    padding-top: 120px;
+    text-align: center;
+}
+
+#stock{
+    text-align: center;
+}
+
+#about-info p{
+    text-align: justify;
+    font-size: 27px; 
+    
+}#contact-info p{
+    text-align: justify;
+    font-size: 30px; 
+}
+    
+.logo2 img{
+    float: left;
+    width: 50%;
+}
+
+#sent-info p{
+    text-align: center;
+}
+
+.sentlogo2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 10px;
+}
+
+
+/********************* HEADER *******************/
+
+#header{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 500;
+    width: 100%;
+    height: 100px;
+    background-image:url('images/steelfloor.png');
+    background-repeat: repeat-x;
+}
+
+#header img{
+    display: block;
+    margin: auto;
+    height: 70%;
+    padding-top: 15px;
+}
+
+/********************* TOP-TABS *******************/
+
+#tabs-top{
+    position: fixed;
+    top: 80px;
+    left: 0;
+    z-index: 500;
+    width: 100%;
+    height: 8%;
+    background-color: dimgrey;
+}
+
+#tabs-top a{
+    float: left;
+    display: block;
+    width: 33%;
+    height: 35px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+}
+
+/********************* MAIN-HOME *******************/
+
+#main-home{
+    margin-top: 120px;
+}
+
+#content{
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+
+
+/********************* MAIN *******************/
+
+#main{
+    margin-top: 119px;
+    background: url(images/);
+    background-repeat: repeat-y;
+    
+}
+
+#content{
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+
+/********************* TABLE *******************/
+
+
+table{
+    width: 40%;
+}
+
+td{
+    border-top: 1px solid #13131313
+}
+
+/********************* FORM *******************/
+
+input{
+    width: 100%;
+    height: 25px;
+    margin: 12px 0;
+    border: 1px solid #929292;
+}
+
+textarea{
+    width: 100%;
+    height: 65px;
+    margin: 12px 0;
+    border: 1px solid #929292;
+}
+
+.button{
+    display: block;
+    width: 100%;
+    background-color: red;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 12px 0;
+    padding: 8px 0;
+    float: inherit;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
